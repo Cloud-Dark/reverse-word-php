@@ -3,8 +3,6 @@
 
 # Reverse Word in PHP  With Explode and Array
 
-    enter code here
-
 ## cara Menggunakan
 1. kalian dapat mengubah di bagian $string
 
